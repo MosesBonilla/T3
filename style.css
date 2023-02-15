@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+}
+
+#main-message {
+    color:green;
+}
+
+.square{
+    height:140px;
+    width: 140px;
+    border: 2px solid black;
+    background-color: pink;
+}
+
+.flexcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.flexwrap{
+    flex-wrap: wrap;
+    width: 432px; /* notice that this needs
+    to be slightly bigger than the assets to wrap properly */
+}
+
+
+div {
+color: green;
+}
