@@ -1,2 +1,4 @@
 //API: Application Programming Interface
-console.log('Hello Javascript!');
+let squares = document.getElementById('square');
+console.log(squares);
+
