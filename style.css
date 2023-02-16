@@ -3,7 +3,7 @@ h1 {
 }
 
 #main-message {
-    color:orange;
+    color:green;
 }
 
 .square{
@@ -16,7 +16,6 @@ h1 {
 .flexcontainer{
     display: flex;
     justify-content: center;
-    text-align: center;
     align-items: center;
 
 }
@@ -27,6 +26,9 @@ h1 {
     to be slightly bigger than the assets to wrap properly */
 }
 
+#game-message{
+    flex-direction: column;
+}
 
 div {
 color: green;
