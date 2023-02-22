@@ -1,5 +1,5 @@
 //API: Application Programming Interface
-let squares = document.getElementById('square')
+let squares = document.getElementsByClassName('square')
 console.log(squares)
 
 const board= document.getElementById('board')
