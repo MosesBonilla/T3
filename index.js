@@ -9,7 +9,7 @@ console.log(board)
 //this is called an arrow function
 let handleClick = () =>{
     //this is where commands will sit
-    console.log("clicked!
+    console.log("clicked!")
 }
 
 // alt method, this is an older, yet still valid method of setting variables
